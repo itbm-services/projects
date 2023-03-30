@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: itbm-services # Your GitHub organization or username, where this repository lives
+repo: projects # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ITBM WebSite
+    url: https://itbm.mx
+  - name: GPTW MX
+    url: https://greatplacetowork.com.mx
+  - name: GPTW CARCA
+    url: https://greatplacetoworkcarca.com/es
+  - name: ULINEA
+    url: https://ulinea.edu.mx
+  - name: Impulso Humano
+    url: https://impulsohumano.org
+  - name: Lucy Meza
+    url: https://lucymeza.si
+  - name: GCTI
+    url: https://greatculturetoinnovate.org
+
+assignees:
+   - itbm-services
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /itbm-monitor
+  logoUrl: https://itbm.mx/wp-content/uploads/2023/02/cropped-512X512.png
+  name: Status ITBM Projects
+  introTitle: "**Status ITBM** is the monitor of ITBM projects"
+  introMessage: This is a **real-time** view of the services. Monitor uptime every 5 minutes.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: ITBM Projects
+      href: https://itbm.mx
 
 # Upptime also supports notifications, assigning issues, and more
+webhook:
+  url: https://chat.googleapis.com/v1/spaces/AAAASgrKXKk/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=KApOzgW0L2YvUJVIKWISX-NE4fFJN5MpHOQB_-FZZHI%3D
 # See https://upptime.js.org/docs/configuration
