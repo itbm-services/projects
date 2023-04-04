@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 174,
+      "2023-04-04": 190,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -101,19 +101,19 @@
     "url": "https://lucymeza.si",
     "icon": "https://icons.duckduckgo.com/ip3/lucymeza.si.ico",
     "slug": "lucy-meza",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 1138,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 707,
+    "timeDay": 917,
+    "timeWeek": 707,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-04-04": 0
+      "2023-04-04": 16
     }
   },
   {
