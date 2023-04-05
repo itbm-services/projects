@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1257,
-    "timeDay": 1020,
-    "timeWeek": 1257,
-    "timeMonth": 1257,
-    "timeYear": 1257,
+    "time": 1230,
+    "timeDay": 936,
+    "timeWeek": 1230,
+    "timeMonth": 1230,
+    "timeYear": 1230,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 442,
-    "timeWeek": 502,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "time": 493,
+    "timeDay": 403,
+    "timeWeek": 493,
+    "timeMonth": 493,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2410,
-    "timeDay": 2554,
-    "timeWeek": 2410,
-    "timeMonth": 2410,
-    "timeYear": 2410,
+    "time": 2377,
+    "timeDay": 2010,
+    "timeWeek": 2377,
+    "timeMonth": 2377,
+    "timeYear": 2377,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 884,
-    "timeWeek": 956,
-    "timeMonth": 956,
-    "timeYear": 956,
+    "time": 943,
+    "timeDay": 803,
+    "timeWeek": 943,
+    "timeMonth": 943,
+    "timeYear": 943,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1028,
+      "2023-04-05": 48,
+      "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -102,18 +103,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lucymeza.si.ico",
     "slug": "lucy-meza",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "94.45%",
+    "uptimeDay": "66.95%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "94.45%",
     "time": 707,
-    "timeDay": 917,
+    "timeDay": 695,
     "timeWeek": 707,
     "timeMonth": 707,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-04-04": 16
+      "2023-04-05": 48,
+      "2023-04-04": 428
     }
   },
   {
@@ -127,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1080,
-    "timeDay": 926,
-    "timeWeek": 1080,
-    "timeMonth": 1080,
-    "timeYear": 1080,
+    "time": 1073,
+    "timeDay": 994,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {}
   }
 ]
