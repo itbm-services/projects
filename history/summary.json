@@ -48,10 +48,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetoworkcarca.com.ico",
     "slug": "gptw-carca",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.68%",
+    "uptime": "99.51%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.51%",
     "time": 1884,
     "timeDay": 1271,
@@ -59,7 +59,8 @@
     "timeMonth": 2351,
     "timeYear": 1825,
     "dailyMinutesDown": {
-      "2024-06-11": 0,
+      "2024-06-12": 57,
+      "2024-06-11": 4,
       "2024-06-07": 22,
       "2024-06-02": 18,
       "2024-06-01": 23,
@@ -100,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/impulsohumano.org.ico",
     "slug": "impulso-humano",
     "status": "up",
-    "uptime": "75.97%",
+    "uptime": "75.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "80.72%",
+    "uptimeYear": "80.73%",
     "time": 1399,
     "timeDay": 851,
     "timeWeek": 1206,
@@ -190,8 +191,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
