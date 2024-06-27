@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1343,
-    "timeDay": 1198,
-    "timeWeek": 1348,
+    "timeDay": 0,
+    "timeWeek": 1326,
     "timeMonth": 1510,
-    "timeYear": 1395,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2024-04-21": 19,
       "2023-10-24": 19,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 996,
-    "timeDay": 2017,
-    "timeWeek": 1792,
+    "timeDay": 0,
+    "timeWeek": 1842,
     "timeMonth": 1700,
-    "timeYear": 1067,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2024-02-05": 44
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.64%",
     "time": 1872,
-    "timeDay": 5007,
-    "timeWeek": 2131,
+    "timeDay": 1198,
+    "timeWeek": 2216,
     "timeMonth": 1609,
-    "timeYear": 1810,
+    "timeYear": 1809,
     "dailyMinutesDown": {
       "2024-06-26": 16,
       "2024-06-25": 66,
@@ -108,10 +108,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "84.82%",
+    "uptimeYear": "84.84%",
     "time": 1389,
-    "timeDay": 1268,
-    "timeWeek": 1074,
+    "timeDay": 0,
+    "timeWeek": 1059,
     "timeMonth": 1234,
     "timeYear": 1458,
     "dailyMinutesDown": {
@@ -179,8 +179,7 @@
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
-      "2023-06-29": 1440,
-      "2023-06-28": 1440
+      "2023-06-29": 1440
     }
   },
   {
@@ -195,10 +194,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 3812,
-    "timeDay": 1391,
-    "timeWeek": 2635,
+    "timeDay": 0,
+    "timeWeek": 2473,
     "timeMonth": 755,
-    "timeYear": 4163,
+    "timeYear": 4169,
     "dailyMinutesDown": {
       "2024-04-16": 16,
       "2024-02-23": 59,
@@ -237,9 +236,9 @@
     "uptimeYear": "96.97%",
     "time": 869,
     "timeDay": 0,
-    "timeWeek": 886,
+    "timeWeek": 946,
     "timeMonth": 901,
-    "timeYear": 839,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2024-04-08": 19,
       "2024-03-26": 33,
