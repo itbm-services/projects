@@ -1,7 +1,7 @@
 url: https://greatplacetowork.com.mx
-status: up
-code: 200
-responseTime: 505
-lastUpdated: 2024-11-25T23:13:33.196Z
+status: down
+code: 500
+responseTime: 386
+lastUpdated: 2024-11-26T22:45:39.241Z
 startTime: 2023-03-30T01:58:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
