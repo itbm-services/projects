@@ -4,19 +4,19 @@
     "url": "https://itbm.mx",
     "icon": "https://icons.duckduckgo.com/ip3/itbm.mx.ico",
     "slug": "itbm-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.08%",
-    "time": 2527,
+    "time": 2528,
     "timeDay": 1415,
     "timeWeek": 1343,
     "timeMonth": 1297,
     "timeYear": 2798,
     "dailyMinutesDown": {
-      "2025-07-19": 16,
+      "2025-07-19": 17,
       "2025-07-09": 59,
       "2025-06-19": 105,
       "2025-06-06": 19,
@@ -61,7 +61,7 @@
       "2024-08-28": 778,
       "2024-08-27": 888,
       "2024-08-26": 1011,
-      "2024-08-25": 54
+      "2024-08-25": 34
     }
   },
   {
@@ -184,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/impulsohumano.org.ico",
     "slug": "impulso-humano",
     "status": "up",
-    "uptime": "67.22%",
+    "uptime": "67.23%",
     "uptimeDay": "98.12%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.81%",
