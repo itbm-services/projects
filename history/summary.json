@@ -4,18 +4,19 @@
     "url": "https://itbm.mx",
     "icon": "https://icons.duckduckgo.com/ip3/itbm.mx.ico",
     "slug": "itbm-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.16%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "98.03%",
-    "time": 2614,
+    "time": 2615,
     "timeDay": 820,
     "timeWeek": 879,
     "timeMonth": 2693,
     "timeYear": 2796,
     "dailyMinutesDown": {
+      "2025-08-13": 0,
       "2025-08-09": 124,
       "2025-08-08": 363,
       "2025-08-01": 72,
@@ -65,7 +66,7 @@
       "2024-08-29": 114,
       "2024-08-28": 778,
       "2024-08-27": 888,
-      "2024-08-26": 662
+      "2024-08-26": 631
     }
   },
   {
@@ -125,7 +126,7 @@
     "timeDay": 1096,
     "timeWeek": 1023,
     "timeMonth": 766,
-    "timeYear": 1791,
+    "timeYear": 1792,
     "dailyMinutesDown": {
       "2025-08-13": 17,
       "2025-07-19": 45,
@@ -187,7 +188,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.86%",
     "uptimeMonth": "97.22%",
-    "uptimeYear": "58.53%",
+    "uptimeYear": "58.56%",
     "time": 3114,
     "timeDay": 3199,
     "timeWeek": 3125,
