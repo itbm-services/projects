@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
-    "uptimeYear": "98.03%",
-    "time": 2740,
-    "timeDay": 908,
-    "timeWeek": 1054,
-    "timeMonth": 1020,
-    "timeYear": 2670,
+    "uptimeYear": "98.16%",
+    "time": 2693,
+    "timeDay": 1280,
+    "timeWeek": 1060,
+    "timeMonth": 1029,
+    "timeYear": 2659,
     "dailyMinutesDown": {
       "2025-08-13": 23,
       "2025-08-09": 124,
@@ -64,8 +64,7 @@
       "2024-09-10": 139,
       "2024-08-30": 82,
       "2024-08-29": 114,
-      "2024-08-28": 778,
-      "2024-08-27": 888
+      "2024-08-28": 778
     }
   },
   {
@@ -79,10 +78,10 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.84%",
-    "time": 700,
-    "timeDay": 230,
-    "timeWeek": 443,
-    "timeMonth": 353,
+    "time": 698,
+    "timeDay": 217,
+    "timeWeek": 445,
+    "timeMonth": 356,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2025-08-24": 17,
@@ -119,16 +118,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetoworkcarca.com.ico",
     "slug": "gptw-carca",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.59%",
     "time": 1776,
-    "timeDay": 1512,
-    "timeWeek": 1227,
-    "timeMonth": 1122,
-    "timeYear": 1733,
+    "timeDay": 1101,
+    "timeWeek": 1222,
+    "timeMonth": 1120,
+    "timeYear": 1725,
     "dailyMinutesDown": {
       "2025-08-13": 17,
       "2025-07-19": 45,
@@ -169,8 +168,7 @@
       "2024-09-05": 66,
       "2024-09-04": 47,
       "2024-09-02": 17,
-      "2024-08-30": 53,
-      "2024-08-27": 75
+      "2024-08-30": 53
     }
   },
   {
@@ -179,16 +177,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/impulsohumano.org.ico",
     "slug": "impulso-humano",
     "status": "up",
-    "uptime": "68.52%",
+    "uptime": "68.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "97.23%",
-    "uptimeYear": "61.91%",
-    "time": 3144,
-    "timeDay": 4970,
-    "timeWeek": 3413,
-    "timeMonth": 2979,
-    "timeYear": 3834,
+    "uptimeYear": "62.18%",
+    "time": 3146,
+    "timeDay": 2152,
+    "timeWeek": 3332,
+    "timeMonth": 2963,
+    "timeYear": 3828,
     "dailyMinutesDown": {
       "2025-08-20": 21,
       "2025-08-10": 637,
@@ -347,8 +345,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   },
   {
@@ -358,15 +355,15 @@
     "slug": "ulinea",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "98.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.48%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.93%",
-    "time": 2368,
-    "timeDay": 13480,
-    "timeWeek": 8104,
-    "timeMonth": 4447,
-    "timeYear": 2509,
+    "time": 2380,
+    "timeDay": 8171,
+    "timeWeek": 8361,
+    "timeMonth": 4703,
+    "timeYear": 2529,
     "dailyMinutesDown": {
       "2025-08-25": 23,
       "2025-08-06": 45,
@@ -404,15 +401,15 @@
     "slug": "gcti",
     "status": "up",
     "uptime": "95.42%",
-    "uptimeDay": "94.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "93.07%",
-    "time": 1798,
-    "timeDay": 5168,
-    "timeWeek": 5642,
-    "timeMonth": 4786,
-    "timeYear": 1975,
+    "time": 1805,
+    "timeDay": 5149,
+    "timeWeek": 5689,
+    "timeMonth": 4863,
+    "timeYear": 1983,
     "dailyMinutesDown": {
       "2025-08-25": 85,
       "2025-06-16": 18,
@@ -478,8 +475,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 555
+      "2024-08-28": 1440
     }
   }
 ]
