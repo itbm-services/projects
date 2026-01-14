@@ -125,7 +125,7 @@
     "time": 1400,
     "timeDay": 750,
     "timeWeek": 909,
-    "timeMonth": 934,
+    "timeMonth": 938,
     "timeYear": 1357,
     "dailyMinutesDown": {
       "2026-01-14": 35,
@@ -201,18 +201,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/impulsohumano.org.ico",
     "slug": "impulso-humano",
     "status": "down",
-    "uptime": "61.97%",
+    "uptime": "61.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.19%",
+    "uptimeYear": "67.05%",
     "time": 2989,
     "timeDay": 895,
     "timeWeek": 735,
     "timeMonth": 832,
     "timeYear": 2768,
     "dailyMinutesDown": {
-      "2026-01-14": 510,
+      "2026-01-14": 1241,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -371,7 +371,7 @@
     "time": 2955,
     "timeDay": 2472,
     "timeWeek": 3041,
-    "timeMonth": 2826,
+    "timeMonth": 2869,
     "timeYear": 3132,
     "dailyMinutesDown": {
       "2026-01-14": 35,
@@ -448,16 +448,16 @@
     "url": "https://greatculturetoinnovate.org",
     "icon": "https://icons.duckduckgo.com/ip3/greatculturetoinnovate.org.ico",
     "slug": "gcti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "94.58%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "95.15%",
     "uptimeMonth": "97.15%",
-    "uptimeYear": "99.32%",
-    "time": 3182,
+    "uptimeYear": "99.33%",
+    "time": 3185,
     "timeDay": 5510,
-    "timeWeek": 4712,
-    "timeMonth": 5052,
+    "timeWeek": 4599,
+    "timeMonth": 5033,
     "timeYear": 3693,
     "dailyMinutesDown": {
       "2026-01-14": 34,
@@ -529,8 +529,7 @@
       "2025-02-04": 132,
       "2025-02-03": 26,
       "2025-02-02": 27,
-      "2025-01-30": 18,
-      "2025-01-29": 45
+      "2025-01-30": 18
     }
   }
 ]
