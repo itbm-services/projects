@@ -211,14 +211,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.21%",
+    "uptimeYear": "64.19%",
     "time": 2914,
     "timeDay": 800,
     "timeWeek": 735,
     "timeMonth": 775,
     "timeYear": 2520,
     "dailyMinutesDown": {
-      "2026-01-25": 332,
+      "2026-01-25": 440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -470,18 +470,19 @@
     "url": "https://greatculturetoinnovate.org",
     "icon": "https://icons.duckduckgo.com/ip3/greatculturetoinnovate.org.ico",
     "slug": "gcti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "89.61%",
+    "uptimeDay": "89.58%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "96.76%",
     "uptimeYear": "99.34%",
-    "time": 3440,
+    "time": 3443,
     "timeDay": 4733,
     "timeWeek": 4989,
     "timeMonth": 5063,
     "timeYear": 3898,
     "dailyMinutesDown": {
+      "2026-01-25": 0,
       "2026-01-24": 149,
       "2026-01-23": 21,
       "2026-01-22": 42,
@@ -545,8 +546,7 @@
       "2025-08-31": 32,
       "2025-08-25": 85,
       "2025-06-16": 18,
-      "2025-06-09": 18,
-      "2025-03-30": 24
+      "2025-06-09": 18
     }
   }
 ]
