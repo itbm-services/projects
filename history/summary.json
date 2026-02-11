@@ -210,7 +210,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/impulsohumano.org.ico",
     "slug": "impulso-humano",
     "status": "down",
-    "uptime": "60.33%",
+    "uptime": "60.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -221,7 +221,7 @@
     "timeMonth": 778,
     "timeYear": 2083,
     "dailyMinutesDown": {
-      "2026-02-11": 123,
+      "2026-02-11": 460,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -496,18 +496,19 @@
     "url": "https://greatculturetoinnovate.org",
     "icon": "https://icons.duckduckgo.com/ip3/greatculturetoinnovate.org.ico",
     "slug": "gcti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "91.11%",
+    "uptimeDay": "94.27%",
     "uptimeWeek": "90.91%",
-    "uptimeMonth": "93.95%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.27%",
     "time": 3610,
     "timeDay": 4599,
     "timeWeek": 5277,
-    "timeMonth": 5241,
+    "timeMonth": 5247,
     "timeYear": 4181,
     "dailyMinutesDown": {
+      "2026-02-11": 0,
       "2026-02-10": 128,
       "2026-02-09": 118,
       "2026-02-08": 162,
@@ -557,8 +558,7 @@
       "2025-12-12": 16,
       "2025-12-11": 40,
       "2025-12-09": 56,
-      "2025-12-08": 90,
-      "2025-12-07": 21
+      "2025-12-08": 90
     }
   }
 ]
