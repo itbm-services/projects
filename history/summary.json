@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 1996,
     "timeDay": 1630,
     "timeWeek": 1255,
     "timeMonth": 1252,
-    "timeYear": 1859,
+    "timeYear": 1853,
     "dailyMinutesDown": {
       "2026-02-27": 37,
       "2026-02-06": 19,
@@ -76,7 +76,7 @@
     "timeDay": 881,
     "timeWeek": 489,
     "timeMonth": 529,
-    "timeYear": 439,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2026-02-07": 29,
       "2025-12-19": 22,
@@ -121,7 +121,7 @@
     "timeDay": 817,
     "timeWeek": 971,
     "timeMonth": 1006,
-    "timeYear": 1258,
+    "timeYear": 1256,
     "dailyMinutesDown": {
       "2026-02-28": 49,
       "2026-02-25": 143,
@@ -201,14 +201,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.09%",
+    "uptimeYear": "55.06%",
     "time": 2758,
     "timeDay": 691,
     "timeWeek": 702,
     "timeMonth": 762,
-    "timeYear": 2005,
+    "timeYear": 2000,
     "dailyMinutesDown": {
-      "2026-02-28": 1173,
+      "2026-02-28": 1396,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -408,7 +408,7 @@
     "timeDay": 240,
     "timeWeek": 343,
     "timeMonth": 790,
-    "timeYear": 2727,
+    "timeYear": 2729,
     "dailyMinutesDown": {
       "2026-02-28": 49,
       "2026-02-25": 143,
@@ -498,17 +498,17 @@
     "url": "https://greatculturetoinnovate.org",
     "icon": "https://icons.duckduckgo.com/ip3/greatculturetoinnovate.org.ico",
     "slug": "gcti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "92.31%",
-    "uptimeWeek": "88.36%",
+    "uptimeDay": "92.28%",
+    "uptimeWeek": "88.58%",
     "uptimeMonth": "91.25%",
     "uptimeYear": "99.13%",
     "time": 3632,
     "timeDay": 2313,
-    "timeWeek": 2578,
+    "timeWeek": 2478,
     "timeMonth": 4334,
-    "timeYear": 4238,
+    "timeYear": 4243,
     "dailyMinutesDown": {
       "2026-02-28": 110,
       "2026-02-27": 121,
@@ -549,7 +549,7 @@
       "2026-01-21": 20,
       "2026-01-18": 132,
       "2026-01-17": 63,
-      "2026-01-16": 26
+      "2026-01-16": 9
     }
   }
 ]
