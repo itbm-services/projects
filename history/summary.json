@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/impulsohumano.org.ico",
     "slug": "impulso-humano",
     "status": "down",
-    "uptime": "59.07%",
+    "uptime": "59.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "53.82%",
+    "uptimeYear": "53.80%",
     "time": 2736,
     "timeDay": 707,
     "timeWeek": 684,
     "timeMonth": 738,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2026-03-05": 691,
+      "2026-03-05": 800,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -500,12 +500,12 @@
     "url": "https://greatculturetoinnovate.org",
     "icon": "https://icons.duckduckgo.com/ip3/greatculturetoinnovate.org.ico",
     "slug": "gcti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "92.68%",
+    "uptimeDay": "92.65%",
     "uptimeWeek": "92.21%",
     "uptimeMonth": "92.06%",
-    "uptimeYear": "99.12%",
+    "uptimeYear": "99.13%",
     "time": 3657,
     "timeDay": 2672,
     "timeWeek": 2328,
@@ -549,7 +549,7 @@
       "2026-01-28": 40,
       "2026-01-27": 25,
       "2026-01-26": 75,
-      "2026-01-25": 161
+      "2026-01-25": 142
     }
   }
 ]
