@@ -111,19 +111,19 @@
     "url": "https://greatplacetoworkcarca.com/es",
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetoworkcarca.com.ico",
     "slug": "gptw-carca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.74%",
+    "uptimeDay": "91.68%",
     "uptimeWeek": "94.54%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "99.29%",
-    "time": 1284,
-    "timeDay": 878,
-    "timeWeek": 830,
-    "timeMonth": 947,
-    "timeYear": 1243,
+    "time": 1282,
+    "timeDay": 772,
+    "timeWeek": 810,
+    "timeMonth": 939,
+    "timeYear": 1242,
     "dailyMinutesDown": {
-      "2026-03-10": 119,
+      "2026-03-10": 120,
       "2026-03-09": 54,
       "2026-03-07": 45,
       "2026-03-06": 153,
@@ -182,8 +182,7 @@
       "2025-11-29": 146,
       "2025-11-27": 55,
       "2025-11-26": 55,
-      "2025-11-23": 22,
-      "2025-11-22": 17
+      "2025-11-23": 22
     }
   },
   {
@@ -196,14 +195,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "52.35%",
+    "uptimeYear": "52.34%",
     "time": 2714,
     "timeDay": 537,
     "timeWeek": 653,
     "timeMonth": 712,
     "timeYear": 1959,
     "dailyMinutesDown": {
-      "2026-03-10": 1252,
+      "2026-03-10": 1283,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -403,19 +402,19 @@
     "url": "https://ulinea.edu.mx",
     "icon": "https://icons.duckduckgo.com/ip3/ulinea.edu.mx.ico",
     "slug": "ulinea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.74%",
+    "uptimeDay": "91.68%",
     "uptimeWeek": "94.54%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.29%",
     "time": 2547,
-    "timeDay": 524,
-    "timeWeek": 386,
-    "timeMonth": 334,
-    "timeYear": 2630,
+    "timeDay": 460,
+    "timeWeek": 378,
+    "timeMonth": 332,
+    "timeYear": 2627,
     "dailyMinutesDown": {
-      "2026-03-10": 119,
+      "2026-03-10": 120,
       "2026-03-09": 54,
       "2026-03-07": 45,
       "2026-03-06": 153,
@@ -473,8 +472,7 @@
       "2025-12-01": 59,
       "2025-11-29": 146,
       "2025-11-27": 55,
-      "2025-11-26": 55,
-      "2025-11-23": 22
+      "2025-11-26": 55
     }
   },
   {
@@ -500,13 +498,13 @@
     "url": "https://greatculturetoinnovate.org",
     "icon": "https://icons.duckduckgo.com/ip3/greatculturetoinnovate.org.ico",
     "slug": "gcti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "75.12%",
+    "uptimeDay": "75.09%",
     "uptimeWeek": "86.92%",
     "uptimeMonth": "91.01%",
-    "uptimeYear": "99.08%",
-    "time": 3791,
+    "uptimeYear": "99.09%",
+    "time": 3795,
     "timeDay": 2172,
     "timeWeek": 2812,
     "timeMonth": 3283,
@@ -545,7 +543,7 @@
       "2026-02-07": 178,
       "2026-02-06": 60,
       "2026-02-05": 35,
-      "2026-02-04": 234
+      "2026-02-04": 154
     }
   }
 ]
