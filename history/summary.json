@@ -210,7 +210,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.80%",
+    "uptimeYear": "25.77%",
     "time": 1680,
     "timeDay": 872,
     "timeWeek": 648,
@@ -226,7 +226,7 @@
       "2025-08-20": 21,
       "2025-09-09": 76,
       "2025-09-17": 20,
-      "2026-06-21": 1212,
+      "2026-06-21": 1370,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -504,19 +504,18 @@
     "url": "https://ulinea.edu.mx",
     "icon": "https://icons.duckduckgo.com/ip3/ulinea.edu.mx.ico",
     "slug": "ulinea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "86.65%",
-    "uptimeWeek": "83.41%",
+    "uptimeDay": "86.60%",
+    "uptimeWeek": "84.01%",
     "uptimeMonth": "87.02%",
-    "uptimeYear": "98.08%",
-    "time": 2081,
-    "timeDay": 370,
+    "uptimeYear": "98.09%",
+    "time": 2079,
+    "timeDay": 315,
     "timeWeek": 324,
-    "timeMonth": 328,
-    "timeYear": 1907,
+    "timeMonth": 326,
+    "timeYear": 1905,
     "dailyMinutesDown": {
-      "2026-03-10": 26,
       "2026-03-11": 45,
       "2026-03-13": 75,
       "2026-03-15": 226,
@@ -573,7 +572,7 @@
       "2026-06-18": 13,
       "2026-06-19": 114,
       "2026-06-20": 402,
-      "2026-06-21": 192
+      "2026-06-21": 193
     }
   },
   {
@@ -600,11 +599,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/greatculturetoinnovate.org.ico",
     "slug": "gcti",
     "status": "down",
-    "uptime": "94.69%",
-    "uptimeDay": "86.63%",
+    "uptime": "94.68%",
+    "uptimeDay": "75.62%",
     "uptimeWeek": "42.17%",
     "uptimeMonth": "7.80%",
-    "uptimeYear": "82.84%",
+    "uptimeYear": "82.81%",
     "time": 3915,
     "timeDay": 10289,
     "timeWeek": 4700,
@@ -703,7 +702,7 @@
       "2026-04-21": 1179,
       "2026-06-19": 122,
       "2026-06-20": 180,
-      "2026-06-21": 192
+      "2026-06-21": 351
     }
   }
 ]
