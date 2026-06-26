@@ -12,7 +12,7 @@
     "uptimeYear": "99.36%",
     "time": 1750,
     "timeDay": 2161,
-    "timeWeek": 1571,
+    "timeWeek": 1634,
     "timeMonth": 2006,
     "timeYear": 1593,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
     "uptimeYear": "99.03%",
     "time": 475,
     "timeDay": 83,
-    "timeWeek": 268,
+    "timeWeek": 291,
     "timeMonth": 674,
     "timeYear": 508,
     "dailyMinutesDown": {
@@ -129,7 +129,7 @@
     "uptimeYear": "98.66%",
     "time": 1200,
     "timeDay": 1047,
-    "timeWeek": 1143,
+    "timeWeek": 1147,
     "timeMonth": 1118,
     "timeYear": 956,
     "dailyMinutesDown": {
@@ -212,10 +212,10 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.66%",
+    "uptimeYear": "24.62%",
     "time": 1652,
     "timeDay": 640,
-    "timeWeek": 684,
+    "timeWeek": 682,
     "timeMonth": 689,
     "timeYear": 1369,
     "dailyMinutesDown": {
@@ -228,7 +228,7 @@
       "2025-08-20": 21,
       "2025-09-09": 76,
       "2025-09-17": 20,
-      "2026-06-26": 7,
+      "2026-06-26": 202,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -512,14 +512,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ulinea.edu.mx.ico",
     "slug": "ulinea",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "91.06%",
-    "uptimeWeek": "80.08%",
-    "uptimeMonth": "84.65%",
-    "uptimeYear": "97.92%",
+    "uptime": "99.35%",
+    "uptimeDay": "77.49%",
+    "uptimeWeek": "79.28%",
+    "uptimeMonth": "84.20%",
+    "uptimeYear": "97.88%",
     "time": 2034,
     "timeDay": 293,
-    "timeWeek": 334,
+    "timeWeek": 340,
     "timeMonth": 325,
     "timeYear": 1875,
     "dailyMinutesDown": {
@@ -580,7 +580,7 @@
       "2026-06-22": 500,
       "2026-06-23": 599,
       "2026-06-25": 128,
-      "2026-06-26": 1
+      "2026-06-26": 196
     }
   },
   {
@@ -610,11 +610,11 @@
     "uptime": "94.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.61%",
-    "uptimeMonth": "20.22%",
+    "uptimeMonth": "20.67%",
     "uptimeYear": "82.79%",
     "time": 3968,
     "timeDay": 1411,
-    "timeWeek": 5398,
+    "timeWeek": 5655,
     "timeMonth": 4135,
     "timeYear": 4206,
     "dailyMinutesDown": {
