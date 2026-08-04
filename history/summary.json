@@ -51,17 +51,17 @@
     "url": "https://greatplacetowork.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetowork.com.mx.ico",
     "slug": "gptw-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "98.93%",
-    "time": 484,
-    "timeDay": 338,
-    "timeWeek": 329,
-    "timeMonth": 370,
-    "timeYear": 505,
+    "time": 483,
+    "timeDay": 209,
+    "timeWeek": 307,
+    "timeMonth": 363,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2025-08-05": 33,
       "2025-08-17": 26,
@@ -115,7 +115,8 @@
       "2026-07-29": 63,
       "2026-07-28": 5,
       "2026-08-02": 63,
-      "2026-08-03": 74
+      "2026-08-03": 74,
+      "2026-08-04": 10
     }
   },
   {
@@ -123,11 +124,11 @@
     "url": "https://greatplacetoworkcarca.com/es",
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetoworkcarca.com.ico",
     "slug": "gptw-carca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "98.62%",
     "time": 1241,
     "timeDay": 967,
@@ -135,7 +136,6 @@
     "timeMonth": 2289,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2026-01-31": 15,
       "2026-02-04": 124,
       "2026-02-07": 34,
       "2026-02-08": 132,
@@ -204,7 +204,8 @@
       "2026-07-23": 85,
       "2026-07-29": 63,
       "2026-07-28": 0,
-      "2026-08-02": 52
+      "2026-08-02": 52,
+      "2026-08-04": 5
     }
   },
   {
@@ -217,7 +218,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.98%",
+    "uptimeYear": "13.95%",
     "time": 1560,
     "timeDay": 0,
     "timeWeek": 0,
@@ -230,7 +231,7 @@
       "2025-08-20": 21,
       "2025-09-09": 76,
       "2025-09-17": 20,
-      "2026-08-04": 128,
+      "2026-08-04": 279,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
