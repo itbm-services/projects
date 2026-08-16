@@ -14,7 +14,7 @@
     "timeDay": 453,
     "timeWeek": 945,
     "timeMonth": 1458,
-    "timeYear": 1458,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2025-09-09": 76,
       "2025-09-19": 19,
@@ -124,16 +124,16 @@
     "url": "https://greatplacetoworkcarca.com/es",
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetoworkcarca.com.ico",
     "slug": "gptw-carca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "87.42%",
-    "uptimeWeek": "88.51%",
-    "uptimeMonth": "96.35%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "88.16%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "98.51%",
-    "time": 1385,
-    "timeDay": 15822,
-    "timeWeek": 9702,
-    "timeMonth": 5619,
+    "time": 1383,
+    "timeDay": 12892,
+    "timeWeek": 9276,
+    "timeMonth": 5524,
     "timeYear": 1269,
     "dailyMinutesDown": {
       "2026-02-19": 118,
@@ -203,7 +203,7 @@
       "2026-08-13": 156,
       "2026-08-14": 336,
       "2026-08-15": 28,
-      "2026-08-16": 181
+      "2026-08-16": 216
     }
   },
   {
@@ -214,8 +214,8 @@
     "status": "up",
     "uptime": "51.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "27.29%",
-    "uptimeMonth": "4.37%",
+    "uptimeWeek": "27.64%",
+    "uptimeMonth": "4.45%",
     "uptimeYear": "11.22%",
     "time": 1512,
     "timeDay": 204,
