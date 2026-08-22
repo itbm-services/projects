@@ -48,16 +48,16 @@
     "url": "https://greatplacetowork.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetowork.com.mx.ico",
     "slug": "gptw-mx",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "98.04%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "98.86%",
     "time": 479,
-    "timeDay": 366,
-    "timeWeek": 493,
-    "timeMonth": 511,
+    "timeDay": 327,
+    "timeWeek": 480,
+    "timeMonth": 506,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2025-08-24": 17,
@@ -118,7 +118,7 @@
       "2026-08-18": 48,
       "2026-08-20": 26,
       "2026-08-21": 119,
-      "2026-08-22": 6
+      "2026-08-22": 15
     }
   },
   {
@@ -126,17 +126,17 @@
     "url": "https://greatplacetoworkcarca.com/es",
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetoworkcarca.com.ico",
     "slug": "gptw-carca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "92.14%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "98.45%",
-    "time": 1344,
-    "timeDay": 500,
-    "timeWeek": 4829,
-    "timeMonth": 5130,
-    "timeYear": 1283,
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "92.04%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "98.44%",
+    "time": 1341,
+    "timeDay": 469,
+    "timeWeek": 4609,
+    "timeMonth": 5045,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2026-02-22": 30,
       "2026-02-23": 61,
@@ -207,7 +207,7 @@
       "2026-08-19": 83,
       "2026-08-20": 21,
       "2026-08-21": 110,
-      "2026-08-22": 1
+      "2026-08-22": 10
     }
   },
   {
@@ -219,7 +219,7 @@
     "uptime": "51.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "23.13%",
+    "uptimeMonth": "23.15%",
     "uptimeYear": "11.21%",
     "time": 1473,
     "timeDay": 183,
