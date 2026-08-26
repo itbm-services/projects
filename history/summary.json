@@ -13,7 +13,7 @@
     "time": 1635,
     "timeDay": 511,
     "timeWeek": 421,
-    "timeMonth": 1112,
+    "timeMonth": 1098,
     "timeYear": 1444,
     "dailyMinutesDown": {
       "2025-09-09": 76,
@@ -50,14 +50,14 @@
     "slug": "gptw-mx",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "98.85%",
     "time": 479,
     "timeDay": 188,
     "timeWeek": 483,
-    "timeMonth": 489,
+    "timeMonth": 436,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2025-08-27": 59,
@@ -118,7 +118,7 @@
       "2026-08-20": 26,
       "2026-08-21": 119,
       "2026-08-23": 25,
-      "2026-08-25": 51
+      "2026-08-25": 45
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/greatplacetoworkcarca.com.ico",
     "slug": "gptw-carca",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "96.54%",
+    "uptime": "99.54%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "96.56%",
     "uptimeMonth": "94.91%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.44%",
     "time": 1309,
     "timeDay": 574,
     "timeWeek": 811,
-    "timeMonth": 4603,
+    "timeMonth": 4661,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2026-02-25": 67,
+      "2026-02-25": 143,
       "2026-02-28": 49,
       "2026-03-04": 126,
       "2026-03-05": 53,
@@ -207,7 +207,7 @@
       "2026-08-21": 110,
       "2026-08-23": 20,
       "2026-08-24": 73,
-      "2026-08-25": 41
+      "2026-08-25": 40
     }
   },
   {
@@ -219,7 +219,7 @@
     "uptime": "51.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.16%",
+    "uptimeMonth": "34.37%",
     "uptimeYear": "11.21%",
     "time": 1457,
     "timeDay": 2220,
@@ -571,7 +571,7 @@
     "time": 1689,
     "timeDay": 211,
     "timeWeek": 449,
-    "timeMonth": 457,
+    "timeMonth": 456,
     "timeYear": 1501,
     "dailyMinutesDown": {
       "2026-05-01": 59,
@@ -668,7 +668,7 @@
     "time": 4039,
     "timeDay": 575,
     "timeWeek": 4939,
-    "timeMonth": 2618,
+    "timeMonth": 2665,
     "timeYear": 4017,
     "dailyMinutesDown": {
       "2026-02-26": 78,
