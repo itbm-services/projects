@@ -217,13 +217,13 @@
     "url": "https://impulsohumano.org",
     "icon": "https://icons.duckduckgo.com/ip3/impulsohumano.org.ico",
     "slug": "impulso-humano",
-    "status": "up",
-    "uptime": "52.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "52.68%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "11.23%",
-    "time": 1317,
+    "time": 1313,
     "timeDay": 160,
     "timeWeek": 248,
     "timeMonth": 340,
@@ -554,7 +554,8 @@
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 19,
-      "2026-08-17": 72
+      "2026-08-17": 72,
+      "2026-09-20": 1
     }
   },
   {
