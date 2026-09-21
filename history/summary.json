@@ -221,10 +221,10 @@
     "slug": "impulso-humano",
     "status": "down",
     "uptime": "52.65%",
-    "uptimeDay": "33.91%",
-    "uptimeWeek": "90.56%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "11.05%",
+    "uptimeDay": "27.48%",
+    "uptimeWeek": "89.64%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "11.03%",
     "time": 1309,
     "timeDay": 0,
     "timeWeek": 252,
@@ -557,7 +557,7 @@
       "2025-09-25": 1440,
       "2025-09-24": 19,
       "2026-08-17": 72,
-      "2026-09-21": 97,
+      "2026-09-21": 189,
       "2026-09-20": 855
     }
   },
